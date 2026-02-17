@@ -56,8 +56,8 @@
     }
   }
 
-  if (!customElements.get('rss-widget')) {
-    customElements.define('rss-widget', RssWidget);
-    console.log("RSS-Widget erfolgreich registriert.");
-  }
+  if (!customElements.get('rss-widget-item')) {
+    customElements.define('rss-widget-item', RssWidget);
+    console.log("RSS-Widget erfolgreich registriert als rss-widget-item");
+}
 })();
