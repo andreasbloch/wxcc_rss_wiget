@@ -23,7 +23,7 @@
         api_key: "" // Optionaler API Key für rss2json, falls vorhanden
       });
       
-      const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url={params.toString()}`;
+      const apiUrl = `https://api.rss2json.com/v1/api.json?{params.toString()}`;
       
       try {
         const response = await fetch(apiUrl);
