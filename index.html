@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Axians Widget Test</title>
+    <!-- Hier binden wir DEIN Skript ein -->
+    <script src="rss-widget.js"></script>
+</head>
+<body style="background: #f0f0f0; padding: 50px;">
+
+    <h1>Widget Test-Umgebung</h1>
+    
+    <!-- Wir testen beide möglichen Tags, die Webex nutzen könnte -->
+    <div style="margin-bottom: 20px;">
+        <h3>Test als 'rss-widget':</h3>
+        <rss-widget></rss-widget>
+    </div>
+
+    <div style="margin-bottom: 20px;">
+        <h3>Test als 'rss-widget-item':</h3>
+        <rss-widget-item></rss-widget-item>
+    </div>
+
+    <script>
+        // Kleiner Check in der Konsole
+        console.log("Prüfe Registrierung...");
+        console.log("rss-widget definiert:", !!customElements.get('rss-widget'));
+        console.log("rss-widget-item definiert:", !!customElements.get('rss-widget-item'));
+    </script>
+</body>
+</html>
