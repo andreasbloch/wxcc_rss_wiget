@@ -64,13 +64,12 @@ class RssTicker extends HTMLElement {
     this.shadowRoot.innerHTML = `
       <style>
         :host {
-          /* Neu: auto-margins + responsive Breite → Element sitzt mittig im Header */
           display: block;
-          margin: 0 auto;            /* zentriert im übergeordneten Header-Container */
+          margin: 0 auto;                 /* zentriert im Header */
           height: 32px;
-          width: min(50vw, 640px);   /* flexibel, aber gedeckelt */
+          width: min(50vw, 640px);        /* responsive Breite */
           max-width: 640px;
-          min-width: 280px;          /* verhindert zu schmale Darstellung */
+          min-width: 280px;
           font: 12px/32px system-ui, Segoe UI, Roboto, sans-serif;
         }
         .wrap {
@@ -105,7 +104,7 @@ class RssTicker extends HTMLElement {
       const html = items.map(i=>{
         const title = this.escape(i.title);
         const href  = this.escapeAttr(i.link || i.url || "#");
-        return `<span class="item">• <a href="${href}" target="_blank" rel="noopener noreferrer">${title}</a></span>`;
+        return `<span class="item">• ${href}${title}</a></span>`;
       }).join(separator);
 
       track.innerHTML = html;
@@ -151,7 +150,7 @@ class RssTicker extends HTMLElement {
     return [];
   }
 
-  escape(s){ return String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c])); }
+  escape(s){ return String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;","&gt;":"&gt;","\"":"&quot;","'":"&#39;"}[c])); }
   escapeAttr(s){ return String(s||"").replace(/"/g,"&quot;"); }
 }
 customElements.define("rss-ticker", RssTicker);
