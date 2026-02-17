@@ -1,85 +1,43 @@
-// Wir laden Lit direkt von einem CDN, damit kein Build-Step nötig ist
-import { html, css, LitElement } from 'https://esm.sh';
-
-export class RSSWidget extends LitElement {
-  static get styles() {
-    return css`
-      :host {
-        display: flex;
-        align-items: center;
-        height: 40px; /* Passt besser in den WxCC Header */
-        background: transparent;
-        font-family: sans-serif;
-      }
-      .rss-container {
-        display: flex;
-        align-items: center;
-        gap: 10px;
-        padding: 0 15px;
-        color: var(--text-color, white);
-        font-size: 13px;
-      }
-      .title-link {
-        color: #ffcc00; /* Axians Gelb oder Gold als Akzent */
-        text-decoration: none;
-        white-space: nowrap;
-        max-width: 300px;
-        overflow: hidden;
-        text-overflow: ellipsis;
-      }
-      button {
-        cursor: pointer;
-        background: rgba(255,255,255,0.1);
-        border: none;
-        color: white;
-        border-radius: 4px;
-        padding: 2px 8px;
-      }
-      button:hover { background: rgba(255,255,255,0.2); }
-    `;
-  }
-
-  static get properties() {
-    return {
-      rss: { type: String },
-      items: { type: Array },
-      currentIndex: { type: Number }
-    };
-  }
-
+class RssTicker extends HTMLElement {
   constructor() {
     super();
-    this.rss = 'https://www.tagesschau.de';
-    this.items = [];
-    this.currentIndex = 0;
+    this.attachShadow({ mode: 'open' });
+    this.rssUrl = '';
   }
 
-  // Da wir keinen NPM Server haben, nutzen wir einen freien RSS-zu-JSON Wandler, 
-  // um CORS Probleme im Browser zu umgehen
-  async connectedCallback() {
-    super.connectedCallback();
-    try {
-      const response = await fetch(`https://api.rss2json.com{encodeURIComponent(this.rss)}`);
-      const data = await response.json();
-      this.items = data.items || [];
-    } catch (e) {
-      console.error("RSS Feed Fehler:", e);
+  static get observedAttributes() { return ['rss-url']; }
+
+  attributeChangedCallback(name, oldVal, newVal) {
+    if (name === 'rss-url' && newVal) {
+      this.rssUrl = newVal;
+      this.fetchFeed();
     }
   }
 
-  render() {
-    if (this.items.length === 0) return html`<div class="rss-container">Lade Feed...</div>`;
-    const item = this.items[this.currentIndex];
+  async fetchFeed() {
+    try {
+      const response = await fetch(this.rssUrl);
+      const text = await response.text();
+      const xml = new window.DOMParser().parseFromString(text, "text/xml");
+      const items = Array.from(xml.querySelectorAll("item")).map(i => i.querySelector("title").textContent);
+      this.render(items.join(' +++ '));
+    } catch (e) {
+      this.render("Fehler beim Laden des Feeds.");
+    }
+  }
 
-    return html`
-      <div class="rss-container">
-        <span>📢</span>
-        <button @click="${() => this.currentIndex = (this.currentIndex - 1 + this.items.length) % this.items.length}">&lt;</button>
-        <a class="title-link" href="${item.link}" target="_blank">${item.title}</a>
-        <button @click="${() => this.currentIndex = (this.currentIndex + 1) % this.items.length}">&gt;</button>
+  render(content) {
+    this.shadowRoot.innerHTML = `
+      <style>
+        :host { display: flex; align-items: center; width: 100%; overflow: hidden; background: transparent; font-family: sans-serif; color: inherit; }
+        .ticker-wrap { width: 100%; overflow: hidden; white-space: nowrap; }
+        .ticker { display: inline-block; padding-left: 100%; animation: marquee 30s linear infinite; font-size: 14px; font-weight: 500; }
+        @keyframes marquee { 0% { transform: translate(0, 0); } 100% { transform: translate(-100%, 0); } }
+      </style>
+      <div class="ticker-wrap">
+        <div class="ticker">📢 ${content}</div>
       </div>
     `;
   }
 }
-
-customElements.define('rss-widget', RSSWidget);
+customElements.define('rss-ticker-widget', RssTicker);
