@@ -72,7 +72,7 @@ export class RSSWidget extends LitElement {
   constructor() {
     super();
     this.dark = false;
-    this.rss = 'https://developer.webex.com/api/content/blog/feed';
+    this.rss = 'https://www.tagesschau.de/index~rss2.xml';
     this.items = [];
     this.currentItemIndex = 0;
     this.feed = {};
