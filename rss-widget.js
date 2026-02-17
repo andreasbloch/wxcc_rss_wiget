@@ -18,7 +18,7 @@
 
     async fetchData() {
       const rssUrl = "www.tagesschau.de/index~rss2.xml";
-      const apiUrl = "https://api.rss2json.com//v1/api.json?rss_url=" + encodeURIComponent(rssUrl);
+      const apiUrl = "https://api.rss2json.com/v1/api.json?rss_url=" + encodeURIComponent(rssUrl);
       
       this.addLog(`Starte Fetch auf: ${apiUrl}`);
 
