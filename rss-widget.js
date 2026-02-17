@@ -1,43 +1,40 @@
-class RssTicker extends HTMLElement {
+class RssWidget extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: 'open' });
-    this.rssUrl = '';
   }
 
-  static get observedAttributes() { return ['rss-url']; }
-
-  attributeChangedCallback(name, oldVal, newVal) {
-    if (name === 'rss-url' && newVal) {
-      this.rssUrl = newVal;
-      this.fetchFeed();
-    }
+  connectedCallback() {
+    this.render();
   }
 
-  async fetchFeed() {
+  async render() {
+    const rssUrl = "https://www.tagesschau.de";
+    // Proxy nutzen um CORS/CORB bei der Datenabfrage zu umgehen
+    const api = `https://api.rss2json.com{encodeURIComponent(rssUrl)}`;
+    
     try {
-      const response = await fetch(this.rssUrl);
-      const text = await response.text();
-      const xml = new window.DOMParser().parseFromString(text, "text/xml");
-      const items = Array.from(xml.querySelectorAll("item")).map(i => i.querySelector("title").textContent);
-      this.render(items.join(' +++ '));
-    } catch (e) {
-      this.render("Fehler beim Laden des Feeds.");
-    }
-  }
+      const res = await fetch(api);
+      const data = await res.json();
+      const item = data.items[0]; // Erster Eintrag
 
-  render(content) {
-    this.shadowRoot.innerHTML = `
-      <style>
-        :host { display: flex; align-items: center; width: 100%; overflow: hidden; background: transparent; font-family: sans-serif; color: inherit; }
-        .ticker-wrap { width: 100%; overflow: hidden; white-space: nowrap; }
-        .ticker { display: inline-block; padding-left: 100%; animation: marquee 30s linear infinite; font-size: 14px; font-weight: 500; }
-        @keyframes marquee { 0% { transform: translate(0, 0); } 100% { transform: translate(-100%, 0); } }
-      </style>
-      <div class="ticker-wrap">
-        <div class="ticker">📢 ${content}</div>
-      </div>
-    `;
+      this.shadowRoot.innerHTML = `
+        <style>
+          :host { display: block; padding: 20px; font-family: sans-serif; background: white; color: black; border-radius: 8px; }
+          h2 { color: #005a8b; margin-top: 0; }
+          .news-box { border-left: 5px solid #ffcc00; padding-left: 15px; }
+          a { color: #005a8b; text-decoration: none; font-weight: bold; }
+        </style>
+        <div class="news-box">
+          <h2>Axians News Feed</h2>
+          <p>Aktuellste Meldung:</p>
+          <a href="${item.link}" target="_blank">${item.title}</a>
+          <p><small>Quelle: Tagesschau</small></p>
+        </div>
+      `;
+    } catch (e) {
+      this.shadowRoot.innerHTML = `<p>News konnten nicht geladen werden.</p>`;
+    }
   }
 }
-customElements.define('rss-ticker-widget', RssTicker);
+customElements.define('rss-widget', RssWidget);
