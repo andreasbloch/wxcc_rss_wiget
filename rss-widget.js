@@ -1,4 +1,5 @@
-import {html, css, LitElement} from 'lit';
+import { html, css, LitElement } from 'https://esm.sh';
+//import {html, css, LitElement} from 'lit';
 
 export class RSSWidget extends LitElement {
   static get styles() {
