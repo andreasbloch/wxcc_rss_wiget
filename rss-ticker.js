@@ -15,7 +15,8 @@ class RssTicker extends HTMLElement {
       separator: " • ",
       dark: false,
       debug: false,
-      rss2jsonParams: "" // z.B. "count=15&order_by=pubDate&order_dir=desc"
+      // z. B. "count=15&order_by=pubDate&order_dir=desc" (nur wenn du clientseitig rss2json nutzt)
+      rss2jsonParams: ""
     };
   }
 
@@ -113,7 +114,7 @@ class RssTicker extends HTMLElement {
       return items.slice(0, maxItems).map(x => ({ title: x.title, link: x.link || x.url || "#" }));
     }
 
-    // B) optionaler Fallback: direkter Aufruf von rss2json ohne Key im Client
+    // B) optionaler Fallback: direkter Aufruf von rss2json ohne Key im Client (nur Test)
     if (rss) {
       const base = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rss)}`;
       const url  = rss2jsonParams ? `${base}&${rss2jsonParams}` : base;
@@ -137,7 +138,12 @@ class RssTicker extends HTMLElement {
     return [];
   }
 
-  escape(s){return String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));}
-  escapeAttr(s){return String(s||"").replace(/"/g,"&quot;");}
+  // Richtige Escapes (kein &amp; im Pattern!)
+  escape(s){
+    return String(s || "").replace(/[&<>"']/g, c => ({
+      "&":"&amp;", "<":"&lt;", ">":"&gt;", "\"":"&quot;", "'":"&#39;"
+    }[c]));
+  }
+  escapeAttr(s){ return String(s || "").replace(/"/g,"&quot;"); }
 }
 customElements.define("rss-ticker", RssTicker);
