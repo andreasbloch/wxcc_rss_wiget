@@ -15,28 +15,77 @@ class RssTicker extends HTMLElement {
       separator: " • ",
       dark: false,
       debug: false,
-      // z. B. "count=15&order_by=pubDate&order_dir=desc" (nur wenn du clientseitig rss2json nutzt)
       rss2jsonParams: ""
     };
+    // einfache Render-Entprellung
+    this._renderQueued = false;
+  }
+
+  // --- Property <-> State Brücke ----------------------------------------
+  _toBool(v)   { return (typeof v === "boolean") ? v : String(v) === "true"; }
+  _toNum(v,d)  { const n = Number(v); return Number.isFinite(n) ? n : d; }
+
+  // Upgrade-Pattern: bereits gesetzte Properties durch die Setter "schubsen"
+  _upgradeProperty(prop) {
+    if (Object.prototype.hasOwnProperty.call(this, prop)) {
+      const value = this[prop];
+      delete this[prop];
+      this[prop] = value; // triggert den Setter
+    }
+  }
+
+  connectedCallback() {
+    // Properties upgraden (falls Desktop schon vor definition gesetzt hat)
+    ["rss","jsonProxy","speed","maxItems","separator","dark","debug","rss2jsonParams"]
+      .forEach(p => this._upgradeProperty(p));
+    this._renderSoon();
   }
 
   attributeChangedCallback(name, _oldVal, val) {
     const map = { maxitems: "maxItems", jsonproxy: "jsonProxy", rss2jsonparams: "rss2jsonParams" };
     const key = map[name] || name;
-    if (key === "speed" || key === "maxItems") this.state[key] = Number(val);
-    else if (key === "dark" || key === "debug") this.state[key] = (String(val) === "true");
-    else this.state[key] = val;
-    if (this.isConnected) this.render();
-  }
 
-  connectedCallback() {
-    for (const attr of RssTicker.observedAttributes) {
-      if (this.hasAttribute(attr)) this.attributeChangedCallback(attr, null, this.getAttribute(attr));
+    switch (key) {
+      case "speed":    this.speed    = val; break;
+      case "maxItems": this.maxItems = val; break;
+      case "dark":     this.dark     = val; break;
+      case "debug":    this.debug    = val; break;
+      default:         this[key]     = val;
     }
-    this.render();
   }
 
+  // --- Getter/Setter für Properties (werden vom Desktop gesetzt) ----------
+  get rss()            { return this.state.rss; }
+  set rss(v)           { this.state.rss = (v ?? "");           this._renderSoon(); }
+
+  get jsonProxy()      { return this.state.jsonProxy; }
+  set jsonProxy(v)     { this.state.jsonProxy = (v ?? "");      this._renderSoon(); }
+
+  get speed()          { return this.state.speed; }
+  set speed(v)         { this.state.speed = this._toNum(v,60);  this._renderSoon(); }
+
+  get maxItems()       { return this.state.maxItems; }
+  set maxItems(v)      { this.state.maxItems = this._toNum(v,15); this._renderSoon(); }
+
+  get separator()      { return this.state.separator; }
+  set separator(v)     { this.state.separator = (v ?? " • ");   this._renderSoon(); }
+
+  get dark()           { return this.state.dark; }
+  set dark(v)          { this.state.dark = this._toBool(v);     this._renderSoon(); }
+
+  get debug()          { return this.state.debug; }
+  set debug(v)         { this.state.debug = this._toBool(v);    this._renderSoon(); }
+
+  get rss2jsonParams() { return this.state.rss2jsonParams; }
+  set rss2jsonParams(v){ this.state.rss2jsonParams = (v ?? ""); this._renderSoon(); }
+
+  // --- Render -------------------------------------------------------------
   log(...args){ if (this.state.debug) console.log("[rss-ticker]", ...args); }
+  _renderSoon() {
+    if (this._renderQueued) return;
+    this._renderQueued = true;
+    queueMicrotask(() => { this._renderQueued = false; this.render(); });
+  }
 
   async render() {
     const { speed, maxItems, separator, dark } = this.state;
@@ -77,7 +126,7 @@ class RssTicker extends HTMLElement {
 
     try {
       const items = await this.loadItems();
-      this.log("Items geladen:", items.length);
+      this.log("Items geladen:", items.length, this.state);
 
       if (!items.length) {
         track.textContent = "Keine Einträge im Feed.";
@@ -114,7 +163,7 @@ class RssTicker extends HTMLElement {
       return items.slice(0, maxItems).map(x => ({ title: x.title, link: x.link || x.url || "#" }));
     }
 
-    // B) optionaler Fallback: direkter Aufruf von rss2json ohne Key im Client (nur Test)
+    // B) optionaler Fallback (nur Test): direkter rss2json-Call ohne Key im Client
     if (rss) {
       const base = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rss)}`;
       const url  = rss2jsonParams ? `${base}&${rss2jsonParams}` : base;
@@ -138,7 +187,6 @@ class RssTicker extends HTMLElement {
     return [];
   }
 
-  // Richtige Escapes (kein &amp; im Pattern!)
   escape(s){
     return String(s || "").replace(/[&<>"']/g, c => ({
       "&":"&amp;", "<":"&lt;", ">":"&gt;", "\"":"&quot;", "'":"&#39;"
@@ -146,4 +194,6 @@ class RssTicker extends HTMLElement {
   }
   escapeAttr(s){ return String(s || "").replace(/"/g,"&quot;"); }
 }
+
 customElements.define("rss-ticker", RssTicker);
+``
