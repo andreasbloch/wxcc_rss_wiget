@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Politischer Aschermittwoch: Deftige Worte in zünftiger Atmosphäre",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/politischer-aschermittwoch-140.html"
+    },
+    {
+      "title": "Glyphosat-Deal: Erst Rally, dann Reality-Check bei Bayer",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/bayer-glyphosat-aktie-100.html"
+    },
+    {
+      "title": "Mönchengladbach: Frau gerät bei Karnevalsumzug unter Bus",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/moenchengladbach-unfall-karnevalswagen-100.html"
+    },
+    {
       "title": "Was eine Zuckersteuer wirklich bringen würde",
       "link": "https://www.tagesschau.de/wissen/gesundheit/zuckersteuer-auswirkungen-adipositas-industrie-100.html"
     },
@@ -45,10 +57,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-aktien-boerse-dax-100.html"
     },
     {
-      "title": "Mönchengladbach: Frau gerät bei Karnevalsumzug unter Bus",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/moenchengladbach-unfall-karnevalswagen-100.html"
-    },
-    {
       "title": "Gipfel in Neu-Delhi: Wie Indien im Rennen um KI mitmischen will",
       "link": "https://www.tagesschau.de/wirtschaft/ki-gipfel-indien-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "EU: Schneller entscheiden - notfalls auch im kleinen Rahmen",
       "link": "https://www.tagesschau.de/ausland/europa/eu-ecofin-100.html"
-    },
-    {
-      "title": "11KM-Podcast: Was die Epstein-Files verraten - und was nicht",
-      "link": "https://www.tagesschau.de/podcast-11km-epstein-100.html"
-    },
-    {
-      "title": "Warum Deutschlands Aufschwung 2026 kein Selbstläufer ist",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/konjunktur-deutschland-aufschwung-2026-100.html"
     }
   ]
 }
