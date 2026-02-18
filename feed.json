@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Dänischer König Frederik auf symbolträchtiger Mission in Grönland",
+      "link": "https://www.tagesschau.de/ausland/europa/groenland-koenig-frederik-100.html"
+    },
+    {
       "title": "Interview zu Cyberangriff auf Bahn: \"Das ist Teil einer Kampagne\"",
       "link": "https://www.tagesschau.de/inland/gesellschaft/deutsche-bahn-cybersicherheit-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Glyphosat-Deal: Erst Rally, dann Reality-Check bei Bayer",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/bayer-glyphosat-aktie-100.html"
-    },
-    {
-      "title": "Mönchengladbach: Frau gerät bei Karnevalsumzug unter Bus",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/moenchengladbach-unfall-karnevalswagen-100.html"
     }
   ]
 }
