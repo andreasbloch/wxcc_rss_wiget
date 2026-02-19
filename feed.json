@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Nahrungsmittelindustrie: Der weltweite Konsum wächst",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nestle-nahrungsmittelindustrie-100.html"
+    },
+    {
+      "title": "Jahresbilanz: Airbus über den Erwartungen - klagt über Lieferprobleme",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/airbus-bilanz-lieferkette-100.html"
+    },
+    {
+      "title": "Expertengremium: Lecanemab hat keinen Zusatznutzen bei Alzheimer",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/lecanemab-rueckschlag-alzheimermedikament-100.html"
+    },
+    {
+      "title": "Sozialverbände kritisieren Verschärfung bei Grundsicherung",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/sozialverbaende-grundsicherung-100.html"
+    },
+    {
+      "title": "Früherer britischer Prinz Andrew festgenommen",
+      "link": "https://www.tagesschau.de/ausland/europa/epstein-ermittlungen-andrew-festnahme-100.html"
+    },
+    {
+      "title": "Marktbericht: Renault ist profitabler als Volkswagen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/renault-vw-mb-100.html"
+    },
+    {
+      "title": "Was hat es mit Trumps \"Friedensrat\" wirklich auf sich?",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-friedensrat-104.html"
+    },
+    {
       "title": "Chaos beim KI-Gipfel in Indien - Bill Gates sagt Auftritt ab",
       "link": "https://www.tagesschau.de/ausland/asien/chaos-ki-gipfel-indien-100.html"
     },
@@ -11,10 +39,6 @@
     {
       "title": "Jeder Fünfte offen für autoritäre Ideen",
       "link": "https://www.tagesschau.de/inland/gesellschaft/deutschland-monitor-100.html"
-    },
-    {
-      "title": "Früherer britischer Prinz Andrew laut BBC festgenommen",
-      "link": "https://www.tagesschau.de/ausland/europa/epstein-ermittlungen-andrew-festnahme-100.html"
     },
     {
       "title": "Gastgewerbe kann 2025 nicht vom Tourismus-Boom profitieren",
@@ -55,30 +79,6 @@
     {
       "title": "Menschen gedenken der neun Todesopfer des Anschlags von Hanau",
       "link": "https://www.tagesschau.de/inland/regional/hessen/hanau-jahrestag-100.html"
-    },
-    {
-      "title": "Wirtschaftsflaute: Mit Automatisierung und Innovation gegen die Krise",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/dihk-konjunktur-100.html"
-    },
-    {
-      "title": "Umweltverbände klagen gegen Trump-Entscheidung zu Treibhausgasen",
-      "link": "https://www.tagesschau.de/ausland/amerika/epa-klage-usa-umweltschutz-100.html"
-    },
-    {
-      "title": "Österreich: Prozess um tödliches Bergdrama am Großglockner beginnt",
-      "link": "https://www.tagesschau.de/ausland/oesterreich-grossglockner-prozess-100.html"
-    },
-    {
-      "title": "Zukunft von Gaza: Wo Trumps Vision auf die Realität trifft",
-      "link": "https://www.tagesschau.de/ausland/asien/gaza-trump-visionen-realitaet-100.html"
-    },
-    {
-      "title": "In Iran verzichten einige Muslime aus Protest auf das Fasten an Ramadan",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-ramadan-102.html"
-    },
-    {
-      "title": "Zuckerberg sagt in Prozess um Social-Media-Suchtpotenzial aus",
-      "link": "https://www.tagesschau.de/ausland/amerika/zuckerberg-prozess-100.html"
     }
   ]
 }
