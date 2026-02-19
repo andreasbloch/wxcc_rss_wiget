@@ -1,8 +1,32 @@
 {
   "items": [
     {
+      "title": "Marktbericht: DAX fällt wieder zurück",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-aktien-dax-100.html"
+    },
+    {
+      "title": "Vorschlag von Finanzminister Klingbeil - Kindergeld künftig ohne Antrag",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kindergeld-ohne-antrag-vorschlag-spd-100.html"
+    },
+    {
       "title": "Trump eröffnet in Washington erste Sitzung des \"Friedensrats\"",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-friedensrat-100.html"
+    },
+    {
+      "title": "Kommentar: Festnahme von Ex-Prinz Andrew ist zu wenig und kommt zu spät",
+      "link": "https://www.tagesschau.de/kommentar/andrew-festnahme-100.html"
+    },
+    {
+      "title": "Sechs Jahre nach Anschlag: Gedenken an Opfer in Hanau",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/gedenken-anschlag-hanau-102.html"
+    },
+    {
+      "title": "Sternenhimmel im Februar: Venus trifft auf Merkur und Saturn",
+      "link": "https://www.tagesschau.de/wissen/forschung/astronomie-februar-100.html"
+    },
+    {
+      "title": "Wer als Nachfolger von EZB-Chefin Lagarde infrage kommt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-546.html"
     },
     {
       "title": "Prozess um tote Bergsteigerin am Großglockner: Freund weist Vorwürfe zurück",
@@ -55,30 +79,6 @@
     {
       "title": "Jeder Fünfte offen für autoritäre Ideen",
       "link": "https://www.tagesschau.de/inland/gesellschaft/deutschland-monitor-100.html"
-    },
-    {
-      "title": "Gastgewerbe kann 2025 nicht vom Tourismus-Boom profitieren",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/gastgewerbe-umsatz-weniger-100.html"
-    },
-    {
-      "title": "Erkältungszeit: Wann Nahrungsergänzungsmittel wirklich etwas bringen",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/nahrungsergaenzungsmittel-erkaeltung-100.html"
-    },
-    {
-      "title": "Zwei Deutsche sterben bei Lawinenabgängen in Österreich",
-      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-516.html"
-    },
-    {
-      "title": "Marktbericht: DAX startet schwächer in den Handelstag",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-aktien-dax-100.html"
-    },
-    {
-      "title": "Sparpläne: Chef der DB Cargo will über 6.000 Stellen streichen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/db-cargo-stellenstreichungen-100.html"
-    },
-    {
-      "title": "Lebenslange Haft für Südkoreas Ex-Präsident Yoon wegen Ausrufung des Kriegsrechts",
-      "link": "https://www.tagesschau.de/ausland/asien/yoon-urteil-suedkorea-100.html"
     }
   ]
 }
