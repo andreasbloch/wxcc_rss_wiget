@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Trump eröffnet in Washington erste Sitzung des \"Friedensrats\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-friedensrat-100.html"
+    },
+    {
+      "title": "US-Handelsdefizit sinkt trotz hoher Zölle nur leicht",
+      "link": "https://www.tagesschau.de/ausland/amerika/zoelle-handelsdefizit-kaum-gesunken-100.html"
+    },
+    {
+      "title": "Deutsche Welle stellt griechischsprachiges Programm ein",
+      "link": "https://www.tagesschau.de/ausland/europa/griechische-reaktion-dw-aus-100.html"
+    },
+    {
       "title": "Vor CDU-Bundesparteitag: Was macht eine gute Parteispitze aus?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/studie-parteivorsitzende-eigenschaften-100.html"
     },
@@ -15,10 +27,6 @@
     {
       "title": "Vorschlag von Finanzminister Klingbeil - Kindergeld künftig ohne Antrag",
       "link": "https://www.tagesschau.de/inland/innenpolitik/kindergeld-ohne-antrag-vorschlag-spd-100.html"
-    },
-    {
-      "title": "Trump eröffnet in Washington erste Sitzung des \"Friedensrats\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-friedensrat-100.html"
     },
     {
       "title": "Kommentar: Festnahme von Ex-Prinz Andrew ist zu wenig und kommt zu spät",
@@ -71,14 +79,6 @@
     {
       "title": "Marktbericht: Renault ist profitabler als Volkswagen",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/renault-vw-mb-100.html"
-    },
-    {
-      "title": "Was hat es mit Trumps \"Friedensrat\" wirklich auf sich?",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-friedensrat-104.html"
-    },
-    {
-      "title": "Chaos beim KI-Gipfel in Indien - Bill Gates sagt Auftritt ab",
-      "link": "https://www.tagesschau.de/ausland/asien/chaos-ki-gipfel-indien-100.html"
     }
   ]
 }
