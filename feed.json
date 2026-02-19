@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Menschen gedenken der neun Todesopfer des Anschlags von Hanau",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/hanau-jahrestag-100.html"
+    },
+    {
+      "title": "Zwei Deutsche sterben bei Lawinenabgängen in Österreich",
+      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-516.html"
+    },
+    {
+      "title": "Cyberangriff auf die Bahn: BSI geht nicht von weiteren Auswirkungen aus",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bahn-cyberangriff-bsi-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX startet schwächer in den Handelstag",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-aktien-dax-100.html"
+    },
+    {
+      "title": "Sparpläne: Chef der DB Cargo will über 6.000 Stellen streichen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/db-cargo-stellenstreichungen-100.html"
+    },
+    {
       "title": "Lebenslange Haft für Südkoreas Ex-Präsident Yoon wegen Ausrufung des Kriegsrechts",
       "link": "https://www.tagesschau.de/ausland/asien/yoon-urteil-suedkorea-100.html"
     },
@@ -29,7 +49,7 @@
       "link": "https://www.tagesschau.de/ausland/asien/gaza-trump-visionen-realitaet-100.html"
     },
     {
-      "title": "Im Iran verzichten einige Muslime aus Protest auf das Fasten an Ramadan",
+      "title": "In Iran verzichten einige Muslime aus Protest auf das Fasten an Ramadan",
       "link": "https://www.tagesschau.de/ausland/asien/iran-ramadan-102.html"
     },
     {
@@ -59,26 +79,6 @@
     {
       "title": "Fastenzeit und Ramadan: Wie der Verzicht zum Gewinn wird",
       "link": "https://www.tagesschau.de/inland/gesellschaft/fastenzeit-ramadan-muslime-christen-100.html"
-    },
-    {
-      "title": "Kommentar: Verhandlungen - für Russland Teil der Kriegsführung",
-      "link": "https://www.tagesschau.de/kommentar/ukraine-gespraeche-genf-104.html"
-    },
-    {
-      "title": "Spendenbereitschaft in Deutschland 2025 gesunken",
-      "link": "https://www.tagesschau.de/inland/spendenbereitschaft-sinkt-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX mit Schwung über 25.000",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-aktien-boerse-dax-100.html"
-    },
-    {
-      "title": "Anhaltende Probleme bei Deutscher Bahn - Cyberangriff ist Ursache",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/bahn-stoerung-it-cyberangriff-100.html"
-    },
-    {
-      "title": "Marokko nach Überschwemmung: Das Wasser geht, die Schäden bleiben",
-      "link": "https://www.tagesschau.de/ausland/afrika/marokko-ueberschwemmungen-102.html"
     }
   ]
 }
