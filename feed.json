@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Oberstes US-Gericht erklärt Zölle von Trump für unrechtmäßig",
+      "link": "https://www.tagesschau.de/ausland/amerika/us-gericht-zoelle-trump-102.html"
+    },
+    {
+      "title": "Sechs Monate Stillen nun auch in Deutschland empfohlen",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/leitlinie-stillen-100.html"
+    },
+    {
+      "title": "China wieder wichtigster Handelspartner Deutschlands",
+      "link": "https://www.tagesschau.de/wirtschaft/deutschland-handel-china-100.html"
+    },
+    {
+      "title": "Rundfunkbeitrag soll um 28 Cent steigen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/kef-rundfunkbeitrag-110.html"
+    },
+    {
       "title": "Heftige Schneefälle in Österreich und Bayern sorgen für Chaos",
       "link": "https://www.tagesschau.de/ausland/europa/winter-schnee-flugausfaelle-100.html"
     },
@@ -63,22 +79,6 @@
     {
       "title": "Amnestiegesetz in Venezuela verabschiedet",
       "link": "https://www.tagesschau.de/ausland/amerika/venezuela-amnestiegesetz-gefangene-machado-100.html"
-    },
-    {
-      "title": "Justizreform in Polen nach Präsidenten-Veto vor dem Aus",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-justizreform-veto-100.html"
-    },
-    {
-      "title": "So lief die erste Sitzung des \"Friedensrates\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-friedensrat-102.html"
-    },
-    {
-      "title": "Warum in der CDU angespannte Stimmung herrscht",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-parteitag-merz-112.html"
-    },
-    {
-      "title": "Frau am Großglockner erfroren: Freund zu fünf Monaten auf Bewährung verurteilt",
-      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-grossglockner-prozess-urteil-100.html"
     }
   ]
 }
