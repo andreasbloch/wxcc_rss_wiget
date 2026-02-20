@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Naidoo und Verschwörungsmythen: Kehrtwende von der Kehrtwende",
+      "link": "https://www.tagesschau.de/faktenfinder/naidoo-epstein-100.html"
+    },
+    {
       "title": "\"Grey's Anatomy\"-Schauspieler Eric Dane ist tot",
       "link": "https://www.tagesschau.de/kultur/eric-dane-gestorben-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Deutsche Welle stellt griechischsprachiges Programm ein",
       "link": "https://www.tagesschau.de/ausland/europa/griechische-reaktion-dw-aus-100.html"
-    },
-    {
-      "title": "Vor CDU-Bundesparteitag: Was macht eine gute Parteispitze aus?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/studie-parteivorsitzende-eigenschaften-100.html"
     }
   ]
 }
