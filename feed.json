@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Was die Supreme-Court-Entscheidung bedeutet",
+      "link": "https://www.tagesschau.de/ausland/amerika/supreme-court-kippt-zoelle-100.html"
+    },
+    {
       "title": "Einschätzung zu Trumps Reaktion auf Zoll-Urteil: \"Erpressungspotenzial fällt weg\"",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-zoelle-schalte-klein-feld-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Merz beim CDU-Parteitag: Reformversprechen und ein Hauch Selbstkritik",
       "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-parteitag-merz-114.html"
-    },
-    {
-      "title": "Marktbericht: Der KI-Goldrausch ebbt ab",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/usa-investoren-102.html"
     }
   ]
 }
