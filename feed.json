@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Amazon jetzt umsatzstärkstes Unternehmen der Welt",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/amazon-umsatz-staerkstes-unternehmen-100.html"
+    },
+    {
+      "title": "Grüne bieten Merz in Positionspapier Hilfe bei Sozialreformen an",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sozialreformen-angebot-gruene-100.html"
+    },
+    {
       "title": "Marktbericht: DAX-Anleger bleiben vorsichtig",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-102.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Marktbericht: DAX fällt wieder zurück",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-aktien-dax-100.html"
-    },
-    {
-      "title": "Vorschlag von Finanzminister Klingbeil - Kindergeld künftig ohne Antrag",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kindergeld-ohne-antrag-vorschlag-spd-100.html"
-    },
-    {
-      "title": "Kommentar: Festnahme von Ex-Prinz Andrew ist zu wenig und kommt zu spät",
-      "link": "https://www.tagesschau.de/kommentar/andrew-festnahme-100.html"
     }
   ]
 }
