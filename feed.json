@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Starker Schneefall in Österreich: Tote nach Lawinenabgängen in Tirol",
+      "link": "https://www.tagesschau.de/ausland/lawinen-tote-oesterreich-100.html"
+    },
+    {
       "title": "Was die Supreme-Court-Entscheidung bedeutet",
       "link": "https://www.tagesschau.de/ausland/amerika/supreme-court-kippt-zoelle-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Deutschland plant gemeinsame Luftabwehr mit Verbündeten",
       "link": "https://www.tagesschau.de/ausland/europa/europa-drohnenabwehr-leap-100.html"
-    },
-    {
-      "title": "Merz beim CDU-Parteitag: Reformversprechen und ein Hauch Selbstkritik",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-parteitag-merz-114.html"
     }
   ]
 }
