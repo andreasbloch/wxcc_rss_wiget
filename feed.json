@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Studie: Wenn KI nicht weniger, sondern mehr Arbeit macht",
+      "link": "https://www.tagesschau.de/wissen/forschung/ki-arbeitsintensitaet-folgen-100.html"
+    },
+    {
+      "title": "Jobverlust durch KI? Shumers Warnung und was Studien dazu sagen",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/jobverlust-ki-shumer-warnung-arbeitsmarkt-100.html"
+    },
+    {
       "title": "Tote bei israelischen Angriffen auf Hisbollah-Ziele",
       "link": "https://www.tagesschau.de/ausland/asien/israel-angriffe-libanon-tote-102.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Schwächer als erwartet: US-Wachstum verliert deutlich an Schwung",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/us-bip-wirtschaft-entwicklung-100.html"
-    },
-    {
-      "title": "Goldrausch im südafrikanischen Gugulethu",
-      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-gugulethu-gold-100.html"
-    },
-    {
-      "title": "Polen will seine Ostgrenze künftig mit Landminen schützen",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-grenze-minen-100.html"
     }
   ]
 }
