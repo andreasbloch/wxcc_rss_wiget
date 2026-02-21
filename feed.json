@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "CDU-Parteitag: Spahn verteidigt Merz-Regierung gegen Kritik",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-parteitag-286.html"
+    },
+    {
+      "title": "Polens Ostgrenze: Renaturierung zur Verteidigung",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-ostgrenze-umwelt-verteidigung-100.html"
+    },
+    {
       "title": "Russland meldet Angriffe in Udmurtien - Waffenfabrik getroffen?",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-144.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Merz mit 91,2 Prozent als CDU-Chef wiedergewählt",
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-cdu-parteitag-108.html"
-    },
-    {
-      "title": "Oberstes US-Gericht erklärt Zölle von Trump für unrechtmäßig",
-      "link": "https://www.tagesschau.de/ausland/amerika/us-gericht-zoelle-trump-102.html"
-    },
-    {
-      "title": "Wohnhaus am Fuß der Pyrenäen stammt von Antoni Gaudí",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-gaudi-haus-100.html"
     }
   ]
 }
