@@ -1,7 +1,15 @@
 {
   "items": [
     {
-      "title": "Trump beharrt auf seine Zollpolitik - trotz Zoll-Urteil",
+      "title": "USA greifen erneut Boot im Pazifik an - drei Tote",
+      "link": "https://www.tagesschau.de/ausland/amerika/boot-pazifik-abschuss-100.html"
+    },
+    {
+      "title": "CDU stimmt auf Parteitag zu Social Media und Teilzeit ab",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-parteitag-280.html"
+    },
+    {
+      "title": "Trump beharrt auf seiner Zollpolitik - trotz Zoll-Urteil",
       "link": "https://www.tagesschau.de/ausland/amerika/zoelle-urtei-supreme-court-100.html"
     },
     {
@@ -71,14 +79,6 @@
     {
       "title": "China wieder wichtigster Handelspartner Deutschlands",
       "link": "https://www.tagesschau.de/wirtschaft/deutschland-handel-china-100.html"
-    },
-    {
-      "title": "Rundfunkbeitrag soll um 28 Cent steigen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/kef-rundfunkbeitrag-110.html"
-    },
-    {
-      "title": "Heftige Schneefälle in Österreich und Bayern sorgen für Chaos",
-      "link": "https://www.tagesschau.de/ausland/europa/winter-schnee-flugausfaelle-100.html"
     }
   ]
 }
