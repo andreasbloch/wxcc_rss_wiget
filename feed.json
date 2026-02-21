@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Tote bei israelischen Angriffen auf Hisbollah-Ziele",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-angriffe-libanon-tote-102.html"
+    },
+    {
       "title": "Streit über Pipeline: Ungarn blockiert Milliarden-Darlehen für die Ukraine",
       "link": "https://www.tagesschau.de/ausland/europa/ungarn-drohung-blockade-ukraine-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Polen will seine Ostgrenze künftig mit Landminen schützen",
       "link": "https://www.tagesschau.de/ausland/europa/polen-grenze-minen-100.html"
-    },
-    {
-      "title": "Sechs Monate Stillen nun auch in Deutschland empfohlen",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/leitlinie-stillen-100.html"
     }
   ]
 }
