@@ -1,16 +1,20 @@
 {
   "items": [
     {
+      "title": "Slowakei droht Ukraine mit Ende von Stromlieferungen",
+      "link": "https://www.tagesschau.de/ausland/europa/druschba-slowakei-100.html"
+    },
+    {
       "title": "Bericht aus Berlin: Regierung will Eckpunkte für Heizungsgesetz vorlegen",
       "link": "https://www.tagesschau.de/inland/spahn-miersch-bab-100.html"
     },
     {
-      "title": "Empörung nach Hass-Rede gegen Israel bei der Berlinale",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/antisemitismus-berlinale-102.html"
-    },
-    {
       "title": "AfD-Empfang: Tausende demonstrieren gegen Höcke-Rede in Dortmund",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/demonstration-afd-neujahrsempfang-100.html"
+    },
+    {
+      "title": "Empörung nach Hass-Rede gegen Israel bei der Berlinale",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/antisemitismus-berlinale-102.html"
     },
     {
       "title": "Dänemark lehnt Entsendung von US-Lazarettschiff nach Grönland ab",
@@ -75,10 +79,6 @@
     {
       "title": "Viele Tote bei pakistanischen Luftangriffen auf Afghanistan",
       "link": "https://www.tagesschau.de/ausland/asien/angriffe-pakistan-afghanistan-100.html"
-    },
-    {
-      "title": "Trump will Lazarettschiff nach Grönland schicken",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-lazarettschiff-groenland-100.html"
     }
   ]
 }
