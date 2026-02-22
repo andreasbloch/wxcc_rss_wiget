@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Empörung nach Antisemitismus-Eklat bei der Berlinale",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/antisemitismus-berlinale-102.html"
+    },
+    {
+      "title": "AfD-Empfang: Tausende demonstrieren gegen Höcke-Rede in Dortmund",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/demonstration-afd-neujahrsempfang-100.html"
+    },
+    {
       "title": "Tödliche Messerangriff auf Frau im nordrhein-westfälischen Hagen",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/messerangriff-hagen-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Ist das Eigenheim der größte finanzielle Fehler?",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/eigenheim-altersvorsorge-finanzieller-fehler-100.html"
-    },
-    {
-      "title": "Bemannte Mond-Mission: NASA verschiebt Start erneut",
-      "link": "https://www.tagesschau.de/ausland/amerika/artemis-verschoben-100.html"
-    },
-    {
-      "title": "SPD übt scharfe Kritik an CDU-Beschluss zur Schuldenbremse",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/schuldenbremse-debatte-106.html"
     }
   ]
 }
