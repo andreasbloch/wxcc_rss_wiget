@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Kann Melonis Regierung den Olympia-Erfolg für sich nutzen?",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-olympia-gastgeber-fazit-100.html"
+    },
+    {
       "title": "Slowakei droht Ukraine mit Ende von Stromlieferungen",
       "link": "https://www.tagesschau.de/ausland/europa/druschba-slowakei-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Schornstein des Kraftwerks in Ibbenbüren gesprengt",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/ibbenbueren-kraftwerk-sprengung-100.html"
-    },
-    {
-      "title": "Viele Tote bei pakistanischen Luftangriffen auf Afghanistan",
-      "link": "https://www.tagesschau.de/ausland/asien/angriffe-pakistan-afghanistan-100.html"
     }
   ]
 }
