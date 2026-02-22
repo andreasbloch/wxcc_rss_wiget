@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Wie steht es um die nächsten Olympischen Winterspiele?",
+      "link": "https://www.tagesschau.de/ausland/europa/olympia-stabuebergabe-frankreich-100.html"
+    },
+    {
+      "title": "Bericht über Pläne des Innenministeriums: Asylbewerber sollen schneller arbeiten dürfen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-asylbewerber-arbeit-100.html"
+    },
+    {
       "title": "Streit um Druschba-Pipeline: Ukraine wirft Ungarn und Slowakei Erpressung vor",
       "link": "https://www.tagesschau.de/ausland/ukraine-druschba-ungarn-slowakei-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Britische Regierung erwägt, Andrew aus Thronfolge zu streichen",
       "link": "https://www.tagesschau.de/ausland/europa/andrew-thronfolge-gesetz-100.html"
-    },
-    {
-      "title": "Polens Ostgrenze: Renaturierung zur Verteidigung",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-ostgrenze-umwelt-verteidigung-100.html"
-    },
-    {
-      "title": "Russland meldet Angriffe in Udmurtien - Waffenfabrik getroffen?",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-144.html"
     }
   ]
 }
