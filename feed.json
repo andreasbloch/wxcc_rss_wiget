@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Explosionen in westukrainischer Stadt Lwiw - Terrorvorwurf",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-explosionen-lwiw-100.html"
+    },
+    {
+      "title": "Erneut Tote nach Lawinenabgängen in Österreich",
+      "link": "https://www.tagesschau.de/ausland/europa/lawinen-tote-oesterreich-102.html"
+    },
+    {
+      "title": "Trumps neue Zölle stehen auf wackeligen Füßen",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-zoelle-176.html"
+    },
+    {
       "title": "Wie steht es um die nächsten Olympischen Winterspiele?",
       "link": "https://www.tagesschau.de/ausland/europa/olympia-stabuebergabe-frankreich-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "CDU-Parteitag: Spahn verteidigt Merz-Regierung gegen Kritik",
       "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-parteitag-286.html"
-    },
-    {
-      "title": "So reagieren Wirtschaft und Politik auf das Zoll-Urteil",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/reaktionen-supreme-court-zoelle-100.html"
-    },
-    {
-      "title": "Starker Schneefall in Österreich: Tote nach Lawinenabgängen in Tirol",
-      "link": "https://www.tagesschau.de/ausland/lawinen-tote-oesterreich-100.html"
-    },
-    {
-      "title": "Britische Regierung erwägt, Andrew aus Thronfolge zu streichen",
-      "link": "https://www.tagesschau.de/ausland/europa/andrew-thronfolge-gesetz-100.html"
     }
   ]
 }
