@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Proteste in Iran flammen wieder auf",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-proteste-302.html"
+    },
+    {
       "title": "Gebeine des Heiligen Franz von Assisi werden öffentlich ausgestellt",
       "link": "https://www.tagesschau.de/ausland/europa/italien-gebeine-franziskus-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Olympische Winterspiele: Laura Nolte holt Gold im Zweierbob",
       "link": "https://www.tagesschau.de/sport/olympia-nolte-bob-gold-100.html"
-    },
-    {
-      "title": "Analyse zum CDU-Parteitag: Stuttgart hat Merz stabilisiert",
-      "link": "https://www.tagesschau.de/inland/analyse-cdu-parteitag-100.html"
     }
   ]
 }
