@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Neue OP-Technik für Knieprothesen",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/neue-op-technik-knieprothesen-100.html"
+    },
+    {
+      "title": "Boom bei Gebrauchtem: Wie Second-Hand zum Milliardenmarkt wurde",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/second-hand-markt-boom-100.html"
+    },
+    {
       "title": "Explosionen in westukrainischer Stadt Lwiw - Terrorvorwurf",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-explosionen-lwiw-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Infrastruktur: Winter setzt Straßen in Deutschland stark zu",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/strassenschaeden-winter-infrastruktur-100.html"
-    },
-    {
-      "title": "CDU-Beschlüsse zu Social-Media-Verbot, Teilzeit und Elterngeld",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-parteitag-284.html"
-    },
-    {
-      "title": "CDU-Parteitag: Spahn verteidigt Merz-Regierung gegen Kritik",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-parteitag-286.html"
     }
   ]
 }
