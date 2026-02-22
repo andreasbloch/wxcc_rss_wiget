@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Viele Tote bei pakistanischen Luftangriffen auf Afghanistan",
+      "link": "https://www.tagesschau.de/ausland/asien/angriffe-pakistan-afghanistan-100.html"
+    },
+    {
+      "title": "Trump will Lazarettschiff nach Grönland schicken",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-lazarettschiff-groenland-100.html"
+    },
+    {
       "title": "Ist das Eigenheim der größte finanzielle Fehler?",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/eigenheim-altersvorsorge-finanzieller-fehler-100.html"
     },
@@ -65,20 +73,12 @@
       "link": "https://www.tagesschau.de/ausland/europa/weihnachtsbaeume-frankreich-meer-duenen-100.html"
     },
     {
-      "title": "Nach Zoll-Urteil: Die Unsicherheit in der EU bleibt",
-      "link": "https://www.tagesschau.de/ausland/amerika/urteil-zoelle-reaktionen-100.html"
-    },
-    {
       "title": "Merz hofft auf positive Effekte des US-Zoll-Urteils",
       "link": "https://www.tagesschau.de/inland/innenpolitik/interview-merz-102.html"
     },
     {
       "title": "Kritik an Privatisierungen: Kampf um Spaniens Gesundheitssystem",
       "link": "https://www.tagesschau.de/ausland/europa/spanien-gesundheitssystem-100.html"
-    },
-    {
-      "title": "15 statt 10 Prozent: US-Präsident Trump will weltweite Zölle anheben",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-us-zollerhoehung-100.html"
     }
   ]
 }
