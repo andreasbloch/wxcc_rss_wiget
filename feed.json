@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Bericht aus Berlin: Regierung will Eckpunkte für Heizungsgesetz vorlegen",
+      "link": "https://www.tagesschau.de/inland/spahn-miersch-bab-100.html"
+    },
+    {
+      "title": "US-Zollpolitik: EU lenkt in Richtung Konfrontationskurs",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-usa-zoll-streit-100.html"
+    },
+    {
       "title": "Erneut Wintersturm an der Ostküste der USA",
       "link": "https://www.tagesschau.de/ausland/amerika/blizzard-usa-110.html"
     },
@@ -15,10 +23,6 @@
     {
       "title": "Slowakei droht Ukraine mit Ende von Stromlieferungen",
       "link": "https://www.tagesschau.de/ausland/europa/druschba-slowakei-100.html"
-    },
-    {
-      "title": "Bericht aus Berlin: Regierung will Eckpunkte für Heizungsgesetz vorlegen",
-      "link": "https://www.tagesschau.de/inland/spahn-miersch-bab-100.html"
     },
     {
       "title": "AfD-Empfang: Tausende demonstrieren gegen Höcke-Rede in Dortmund",
@@ -75,10 +79,6 @@
     {
       "title": "Wegen US-Politik: Kanadas schwierige Suche nach neuen Märkten",
       "link": "https://www.tagesschau.de/ausland/amerika/kanada-usa-110.html"
-    },
-    {
-      "title": "Mailand und Cortina: Was bleibt von den Winterspielen 2026?",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-olympische-winterspiele-mailand-cortina-bilanz-100.html"
     }
   ]
 }
