@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Wie Deutschland bei wichtigen Rohstoffen unabhängiger werden kann",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/rohstoffe-mangel-problem-unternehmen-100.html"
+    },
+    {
+      "title": "Vereidigung von Rob Jetten: Neue Töne aus den Niederlanden",
+      "link": "https://www.tagesschau.de/ausland/europa/niederlande-minderheitsregierung-vereidigung-100.html"
+    },
+    {
       "title": "Bericht aus Berlin: Regierung will Eckpunkte für Heizungsgesetz vorlegen",
       "link": "https://www.tagesschau.de/inland/spahn-miersch-bab-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Bus prallt gegen Baum - zwölf Menschen verletzt",
       "link": "https://www.tagesschau.de/inland/regional/berlin/busunfall-berlin-100.html"
-    },
-    {
-      "title": "Vorfall in der Nordsee: Gestrandete Pottwale vor dänischer Insel sind tot",
-      "link": "https://www.tagesschau.de/ausland/europa/daenemark-pottwale-gestrandet-100.html"
-    },
-    {
-      "title": "Warum viele Rathäuser in Männerhand liegen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/buergermeisterinnen-kommunalwahl-100.html"
     }
   ]
 }
