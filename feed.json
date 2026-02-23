@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Tödliche Messerangriff auf Frau im nordrhein-westfälischen Hagen",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/messerangriff-hagen-100.html"
+    },
+    {
+      "title": "Bus prallt gegen Baum - zwölf Menschen verletzt",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/busunfall-berlin-100.html"
+    },
+    {
+      "title": "ifo-Geschäftsklima-Index steigt: \"Erste Signale einer Belebung\"",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-stimmung-unternehmen-102.html"
+    },
+    {
+      "title": "US-Zölle: Maschinenbau-Exporte 2025 gesunken - Branchenverband warnt",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/us-zoelle-maschinenbau-exporte-vdma-100.html"
+    },
+    {
+      "title": "Die EU-Außenminister beraten erneut über den Ukraine-Krieg",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-treffen-aussenminister-100.html"
+    },
+    {
+      "title": "Marktbericht: Anleger fürchten neuen Zoll-Streit",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zollstreit-geldanlage-100.html"
+    },
+    {
       "title": "Wie Deutschland bei wichtigen Rohstoffen unabhängiger werden kann",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/rohstoffe-mangel-problem-unternehmen-100.html"
     },
@@ -23,10 +47,6 @@
     {
       "title": "US-Regierung: Demonstrative Zuversicht trotz Zoll-Chaos",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-zollpolitik-reaktionen-100.html"
-    },
-    {
-      "title": "Marktbericht: Zoll-Unsicherheit belastet Aktienmarkt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zollstreit-geldanlage-100.html"
     },
     {
       "title": "Bischofskonferenz wählt neuen Vorsitzenden: Wer folgt auf Bätzing?",
@@ -59,26 +79,6 @@
     {
       "title": "Slowakei droht Ukraine mit Ende von Stromlieferungen",
       "link": "https://www.tagesschau.de/ausland/europa/druschba-slowakei-100.html"
-    },
-    {
-      "title": "AfD-Empfang: Tausende demonstrieren gegen Höcke-Rede in Dortmund",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/demonstration-afd-neujahrsempfang-100.html"
-    },
-    {
-      "title": "Empörung nach Gaza-Eklat bei der Berlinale in Berlin",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlinale-eklat-100.html"
-    },
-    {
-      "title": "Dänemark lehnt Entsendung von US-Lazarettschiff nach Grönland ab",
-      "link": "https://www.tagesschau.de/ausland/europa/groenland-lazarettschiff-trump-100.html"
-    },
-    {
-      "title": "Secret Service erschießt Eindringling bei Trumps Privatanwesen",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-eindringling-100.html"
-    },
-    {
-      "title": "Bus prallt gegen Baum - zwölf Menschen verletzt",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/busunfall-berlin-100.html"
     }
   ]
 }
