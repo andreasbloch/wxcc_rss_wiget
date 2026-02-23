@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Erneut Wintersturm an der Ostküste der USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/blizzard-usa-110.html"
+    },
+    {
       "title": "\"El Mencho\": Militär tötet mächtigen mexikanischen Drogenboss",
       "link": "https://www.tagesschau.de/ausland/amerika/mexiko-drogenkartell-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Mailand und Cortina: Was bleibt von den Winterspielen 2026?",
       "link": "https://www.tagesschau.de/ausland/europa/italien-olympische-winterspiele-mailand-cortina-bilanz-100.html"
-    },
-    {
-      "title": "Bericht über Pläne des Innenministeriums: Asylbewerber sollen schneller arbeiten dürfen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-asylbewerber-arbeit-100.html"
     }
   ]
 }
