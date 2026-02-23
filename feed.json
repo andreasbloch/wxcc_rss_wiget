@@ -1,8 +1,16 @@
 {
   "items": [
     {
-      "title": "Polen nimmt mutmaßlichen Spion von Belarus fest",
+      "title": "Tödliche Messerangriff auf Frau im nordrhein-westfälischen Hagen",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/messerangriff-hagen-100.html"
+    },
+    {
+      "title": "Polen nimmt mutmaßlichen belarusischen Spion fest",
       "link": "https://www.tagesschau.de/ausland/europa/polen-warschau-festnahme-spion-belarus-100.html"
+    },
+    {
+      "title": "Ministerpräsident Günther will Zuckersteuer über Bundesrat durchsetzen",
+      "link": "https://www.tagesschau.de/inland/daniel-guenther-zuckersteuer-100.html"
     },
     {
       "title": "Die EU-Außenminister beraten erneut über den Ukraine-Krieg",
@@ -11,10 +19,6 @@
     {
       "title": "Bus prallt gegen Baum - zwölf Menschen verletzt",
       "link": "https://www.tagesschau.de/inland/regional/berlin/busunfall-berlin-100.html"
-    },
-    {
-      "title": "Tödliche Messerangriff auf Frau im nordrhein-westfälischen Hagen",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/messerangriff-hagen-100.html"
     },
     {
       "title": "ifo-Geschäftsklima-Index steigt: \"Erste Signale einer Belebung\"",
@@ -37,7 +41,7 @@
       "link": "https://www.tagesschau.de/ausland/europa/niederlande-minderheitsregierung-vereidigung-100.html"
     },
     {
-      "title": "Bericht aus Berlin: Regierung will Eckpunkte für Heizungsgesetz vorlegen",
+      "title": "Regierung will Eckpunkte für Gebäudemodernisierungsgesetz vorlegen",
       "link": "https://www.tagesschau.de/inland/spahn-miersch-bab-100.html"
     },
     {
@@ -75,10 +79,6 @@
     {
       "title": "Erneut Wintersturm an der Ostküste der USA",
       "link": "https://www.tagesschau.de/ausland/amerika/blizzard-usa-110.html"
-    },
-    {
-      "title": "Kann Melonis Regierung den Olympia-Erfolg für sich nutzen?",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-olympia-gastgeber-fazit-100.html"
     }
   ]
 }
