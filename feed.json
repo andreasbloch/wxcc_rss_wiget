@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Bericht aus Berlin: Regierung will Eckpunkte für Heizungsgesetz vorlegen",
+      "link": "https://www.tagesschau.de/inland/spahn-miersch-bab-100.html"
+    },
+    {
+      "title": "Kassenärzte wollen freiwillige Leistungen der Krankenkassen streichen",
+      "link": "https://www.tagesschau.de/inland/abschaffung-leistungen-krankenkassen-100.html"
+    },
+    {
+      "title": "Wie Deepfakes und Bots zur Gefahr im Wahlkampf werden können",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bots-fakes-wahlkampf-100.html"
+    },
+    {
+      "title": "US-Regierung: Demonstrative Zuversicht trotz Zoll-Chaos",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-zollpolitik-reaktionen-100.html"
+    },
+    {
       "title": "Marktbericht: Zoll-Unsicherheit belastet Aktienmarkt",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zollstreit-geldanlage-100.html"
     },
@@ -19,10 +35,6 @@
     {
       "title": "Entscheidende Woche im Tarifstreit bei der Bahn",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-gdl-tarifverhandlungen-100.html"
-    },
-    {
-      "title": "Bericht aus Berlin: Regierung will Eckpunkte für Heizungsgesetz vorlegen",
-      "link": "https://www.tagesschau.de/inland/spahn-miersch-bab-100.html"
     },
     {
       "title": "US-Zollpolitik: Ist die EU mit ihrer Geduld am Ende?",
@@ -67,18 +79,6 @@
     {
       "title": "Warum viele Rathäuser in Männerhand liegen",
       "link": "https://www.tagesschau.de/inland/gesellschaft/buergermeisterinnen-kommunalwahl-100.html"
-    },
-    {
-      "title": "Tödliche Messerangriff auf Frau im nordrhein-westfälischen Hagen",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/messerangriff-hagen-100.html"
-    },
-    {
-      "title": "Kirchen in Deutschland starten mit Gottesdiensten ihre Fastenaktionen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/fastenaktionen-kirchen-100.html"
-    },
-    {
-      "title": "SPD will Social-Media-Verbot für Kinder unter 14 Jahren schnell umsetzen",
-      "link": "https://www.tagesschau.de/inland/koalition-social-media-verbot-100.html"
     }
   ]
 }
