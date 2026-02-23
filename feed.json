@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Tödliche Messerangriff auf Frau im nordrhein-westfälischen Hagen",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/messerangriff-hagen-100.html"
+    },
+    {
+      "title": "Wintersturm trifft Nordosten der USA schwer",
+      "link": "https://www.tagesschau.de/ausland/usa-wintersturm-138.html"
+    },
+    {
+      "title": "Chaos und Gewalt in Mexiko nach Tod von Drogenboss \"El Mencho\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/mexiko-tod-drogenboss-chaos-gewalt-100.html"
+    },
+    {
+      "title": "EU-Parlament stoppt Umsetzung von Zolldeal mit den USA vorerst",
+      "link": "https://www.tagesschau.de/wirtschaft/eu-parlament-zolldeal-usa-100.html"
+    },
+    {
+      "title": "Wieso das Lehramtsstudium reformiert werden sollte",
+      "link": "https://www.tagesschau.de/wissen/forschung/schule-lehrkraefte-studium-100.html"
+    },
+    {
       "title": "Iran, ein Land im Wartezustand: Eine Reportage aus Teheran",
       "link": "https://www.tagesschau.de/ausland/asien/iran-stimmung-bevoelkerung-100.html"
     },
@@ -15,10 +35,6 @@
     {
       "title": "Polen nimmt mutmaßlichen belarusischen Spion fest",
       "link": "https://www.tagesschau.de/ausland/europa/polen-warschau-festnahme-spion-belarus-100.html"
-    },
-    {
-      "title": "Tödliche Messerangriff auf Frau im nordrhein-westfälischen Hagen",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/messerangriff-hagen-100.html"
     },
     {
       "title": "Ministerpräsident Günther will Zuckersteuer über Bundesrat durchsetzen",
@@ -63,22 +79,6 @@
     {
       "title": "Wie Deepfakes und Bots zur Gefahr im Wahlkampf werden können",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bots-fakes-wahlkampf-100.html"
-    },
-    {
-      "title": "US-Regierung: Demonstrative Zuversicht trotz Zoll-Chaos",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-zollpolitik-reaktionen-100.html"
-    },
-    {
-      "title": "Bischofskonferenz wählt neuen Vorsitzenden: Wer folgt auf Bätzing?",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/bischofskonferenz-reformkurs-vorsitz-100.html"
-    },
-    {
-      "title": "11KM-Podcast: Qualzucht bei Hunden - wenn Haustiere leiden",
-      "link": "https://www.tagesschau.de/podcast-11km-qualzucht-100.html"
-    },
-    {
-      "title": "\"El Mencho\": Militär tötet mächtigen mexikanischen Drogenboss",
-      "link": "https://www.tagesschau.de/ausland/amerika/mexiko-drogenkartell-100.html"
     }
   ]
 }
