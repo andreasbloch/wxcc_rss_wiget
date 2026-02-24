@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Immer mehr Ärztinnen und Ärzte aus dem Ausland in Deutschland",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/aerzte-zuwanderung-deutschland-100.html"
+    },
+    {
+      "title": "Wegen Sanktionen: Russlands Öl- und Gaseinnahmen sinken deutlich",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/russland-oel-gas-einnahmen-sanktionen-100.html"
+    },
+    {
       "title": "Verwandtenaffäre: Die AfD auf der Suche nach dem Krisenplan",
       "link": "https://www.tagesschau.de/inland/innenpolitik/afd-vetternwirtschaft-krisenplan-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Trumps Umfragewerte: So schlecht wie bei Joe Biden",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-rede-lage-der-nation-100.html"
-    },
-    {
-      "title": "Staatsakt für Ex-Bundestagspräsidentin Süssmuth: Ein kämpferisches Leben",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/suessmuth-wuerdigung-100.html"
-    },
-    {
-      "title": "Frankreich will US-Botschafter Kushner Kontakte verwehren",
-      "link": "https://www.tagesschau.de/ausland/europa/kushner-us-botschafter-frankreich-100.html"
     }
   ]
 }
