@@ -1,16 +1,36 @@
 {
   "items": [
     {
+      "title": "Brasiliens Indigene erringen Sieg für Amazonas-Schutz",
+      "link": "https://www.tagesschau.de/ausland/amazonas-privatisierung-proteste-100.html"
+    },
+    {
+      "title": "Franziskanerorden räumt Versagen im Umgang mit Missbrauch ein",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/missbrauch-aufarbeitung-kirche-franziskaner-studie-100.html"
+    },
+    {
+      "title": "Haushaltsausschuss bewilligt \"Kamikazedrohnen\" für die Bundeswehr",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kamikazedrohnen-bundeswehr-100.html"
+    },
+    {
+      "title": "Weimer plant Sondersitzung zur Zukunft der Berlinale",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlinale-sondersitzung-zukunft-100.html"
+    },
+    {
+      "title": "Kinderarmut: Zwischen Tafel und Obdachlosenunterkunft",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/kinder-armut-massnahmen-100.html"
+    },
+    {
+      "title": "IT-Dienstleister der Bahn befürchtet Zerschlagung",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/db-systel-stellenabbau-100.html"
+    },
+    {
       "title": "Möglicher Trump-Gegenkandidat Newsom stellt Memoiren vor",
       "link": "https://www.tagesschau.de/ausland/amerika/moeglicher-trump-gegenkanidat-vorstellung-100.html"
     },
     {
       "title": "Merz in China: Xi will Partnerschaft auf \"neues Niveau\" heben",
       "link": "https://www.tagesschau.de/ausland/asien/merz-xi-besuch-china-100.html"
-    },
-    {
-      "title": "Weimer plant Sondersitzung zur Zukunft der Berlinale",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlinale-sondersitzung-zukunft-100.html"
     },
     {
       "title": "Wahlkampfrede in Überlänge: Fünf Erkenntnisse zur Trump-Ansprache",
@@ -59,26 +79,6 @@
     {
       "title": "Bundesweit fehlen 150.000 Ganztagsplätze für Grundschüler",
       "link": "https://www.tagesschau.de/inland/gesellschaft/schulen-ganztagsplaetze-fehlen-100.html"
-    },
-    {
-      "title": "Verkehrstote: 2025 sterben mehr Menschen im deutschen Straßenverkehr",
-      "link": "https://www.tagesschau.de/inland/unfaelle-verkehrstote-strassenverkehr-statistik-100.html"
-    },
-    {
-      "title": "Evakuierungen wegen Überschwemmungen auf indonesischer Insel Bali",
-      "link": "https://www.tagesschau.de/ausland/asien/indonesien-bali-ueberschwemmungen-100.html"
-    },
-    {
-      "title": "Trumps Rede zur Lage der Nation im Faktencheck",
-      "link": "https://www.tagesschau.de/faktenfinder/trump-rede-lage-der-nation-faktencheck-100.html"
-    },
-    {
-      "title": "Annullierte Bürgermeisterwahl in Brandenburg: Post schließt Fehler aus",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/wahl-strausberg-deutsche-post-100.html"
-    },
-    {
-      "title": "Gebäudemodernisierungsgesetz: Kritik von Opposition",
-      "link": "https://www.tagesschau.de/inland/gmg-reaktionen-100.html"
     }
   ]
 }
