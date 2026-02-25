@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Gebäudemodernisierungsgesetz: Guter Ansatz oder zu kurz gedacht?",
+      "link": "https://www.tagesschau.de/kommentar/pro-und-kontra-gebaeudemodernisierungsgesetz-100.html"
+    },
+    {
       "title": "Festnahme im Fall von erschossenem ukrainischen Ex-Politiker",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/festnahme-heinsberg-mord-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Neues Gebäudemodernisierungsgesetz könnte gegen EU-Vorgabe verstoßen",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/gebaeudemodernisierungsgesetz-konflikt-eu-100.html"
-    },
-    {
-      "title": "Rede zur Lage der Nation: \"Eine übermäßig geschönte Bilanz\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-rede-zur-lage-der-nation-analyse-100.html"
     }
   ]
 }
