@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Bundesregierung will Organisierte Kriminalität effektiver bekämpfen",
+      "link": "https://www.tagesschau.de/inland/aktionsplan-gegen-organisierte-kriminalitaet-100.html"
+    },
+    {
+      "title": "Bundesweit fehlen 150.000 Ganztagsplätze für Grundschüler",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/schulen-ganztagsplaetze-fehlen-100.html"
+    },
+    {
       "title": "Verkehrstote: 2025 sterben mehr Menschen im deutschen Straßenverkehr",
       "link": "https://www.tagesschau.de/inland/unfaelle-verkehrstote-strassenverkehr-statistik-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Selenskyj-Rede im EU-Parlament: \"Putin selbst ist Krieg\"",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-reaktionen-100.html"
-    },
-    {
-      "title": "US-Botschafter White wirft belgischer Justiz Antisemitismus vor",
-      "link": "https://www.tagesschau.de/ausland/europa/aerger-us-botschafter-europa-100.html"
-    },
-    {
-      "title": "Nach Juwelendiebstahl: Louvre-Chefin tritt zurück",
-      "link": "https://www.tagesschau.de/ausland/europa/louvre-chefin-ruecktritt-100.html"
     }
   ]
 }
