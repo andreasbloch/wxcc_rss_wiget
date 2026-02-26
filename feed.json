@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Weimer plant Sondersitzung zur Zukunft der Berlinale",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlinale-sondersitzung-zukunft-100.html"
+    },
+    {
+      "title": "Marktbericht: KI-Boom beschäftigt Börsen weltweit",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-aktien-dax-dow-jones-122.html"
+    },
+    {
+      "title": "Kubanische Soldaten töten vier Menschen auf US-Schnellboot",
+      "link": "https://www.tagesschau.de/ausland/kuba-usa-schusswechsel-100.html"
+    },
+    {
       "title": "Karlsruhe prüft Gesetzgebungsverfahren zum Gebäudeenergiegesetz",
       "link": "https://www.tagesschau.de/inland/innenpolitik/gebaeudeenergiegesetz-bundesverfassungsgericht-100.html"
     },
@@ -13,10 +25,6 @@
       "link": "https://www.tagesschau.de/investigativ/ndr-wdr/masern-impfungen-betrugsversuch-100.html"
     },
     {
-      "title": "Weimer plant Sondersitzung zur Zukunft der Berlinale",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlinale-sondersitzung-zukunft-100.html"
-    },
-    {
       "title": "Fahrradtrends 2026: Mehr Licht, mehr Schönheit",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/fahrrad-trends-fruehjahr-100.html"
     },
@@ -27,10 +35,6 @@
     {
       "title": "Bill und Hillary Clinton sagen vor US-Kongress zum Fall Epstein aus",
       "link": "https://www.tagesschau.de/ausland/epstein-usa-clinton-kongress-100.html"
-    },
-    {
-      "title": "Kubanische Soldaten töten vier Menschen auf US-Schnellboot",
-      "link": "https://www.tagesschau.de/ausland/kuba-usa-schusswechsel-100.html"
     },
     {
       "title": "USA verkünden kurz vor Iran-Gesprächen neue Sanktionen",
@@ -75,10 +79,6 @@
     {
       "title": "Brasiliens Indigene erringen Sieg für Amazonas-Schutz",
       "link": "https://www.tagesschau.de/ausland/amazonas-privatisierung-proteste-100.html"
-    },
-    {
-      "title": "Franziskanerorden räumt Versagen im Umgang mit Missbrauch ein",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/missbrauch-aufarbeitung-kirche-franziskaner-studie-100.html"
     }
   ]
 }
