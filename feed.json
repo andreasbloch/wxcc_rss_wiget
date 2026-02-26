@@ -1,12 +1,24 @@
 {
   "items": [
     {
-      "title": "Nachwahl bei Manchester als Stimmungstest für britischen Premier Starmer",
-      "link": "https://www.tagesschau.de/ausland/europa/nachwahl-grossbritannien-110.html"
+      "title": "Marktbericht: DAX behauptet sich im Plus",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-aktien-dax-dow-jones-122.html"
+    },
+    {
+      "title": "ARD-Vorwahlumfrage: Grüne rücken in Baden-Württemberg an CDU heran",
+      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-bw-100.html"
     },
     {
       "title": "AfD darf vorerst nicht als \"gesichert rechtsextremistisch\" eingestuft werden",
       "link": "https://www.tagesschau.de/inland/innenpolitik/afd-einstufung-entscheidung-100.html"
+    },
+    {
+      "title": "Dänemarks Ministerpräsidentin Frederiksen kündigt Neuwahlen an",
+      "link": "https://www.tagesschau.de/ausland/europa/wahl-daenemark-102.html"
+    },
+    {
+      "title": "Nachwahl bei Manchester als Stimmungstest für britischen Premier Starmer",
+      "link": "https://www.tagesschau.de/ausland/europa/nachwahl-grossbritannien-110.html"
     },
     {
       "title": "Nachfolge von Steinmeier: Bundespräsidentenwahl am 30. Januar 2027",
@@ -67,18 +79,6 @@
     {
       "title": "Vergabe öffentlicher Aufträge: Tariftreuegesetz beschlossen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/tariftreue-gesetz-bundestag-100.html"
-    },
-    {
-      "title": "Kanzler Merz in China: War das ein Neuanfang?",
-      "link": "https://www.tagesschau.de/ausland/asien/china-merz-reise-100.html"
-    },
-    {
-      "title": "Marktbericht: Börse Frankfurt geht auf Tauchstation",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-aktien-dax-dow-jones-122.html"
-    },
-    {
-      "title": "Gemüseernte in Deutschland erreicht 2025 Rekordwert",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/gemueseernte-rekord-2025-100.html"
     }
   ]
 }
