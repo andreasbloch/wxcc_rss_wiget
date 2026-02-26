@@ -1,16 +1,20 @@
 {
   "items": [
     {
+      "title": "Nachwahl bei Manchester als Stimmungstest für britischen Premier Starmer",
+      "link": "https://www.tagesschau.de/ausland/europa/nachwahl-grossbritannien-110.html"
+    },
+    {
+      "title": "AfD darf vorerst nicht als \"gesichert rechtsextremistisch\" eingestuft werden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-einstufung-entscheidung-100.html"
+    },
+    {
       "title": "Nachfolge von Steinmeier: Bundespräsidentenwahl am 30. Januar 2027",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-nachfolge-steinmeier-wahltermin-100.html"
     },
     {
       "title": "Afghanen in Pakistan: \"Das Leben meiner Tochter ist in Gefahr\"",
       "link": "https://www.tagesschau.de/ausland/asien/afghanistan-bundesregierung-100.html"
-    },
-    {
-      "title": "AfD darf vorerst nicht als \"gesichert rechtsextremistisch\" eingestuft werden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-einstufung-entscheidung-100.html"
     },
     {
       "title": "Schnelle Züge nach Prag: Tschechiens Bahnoffensive wackelt",
@@ -75,10 +79,6 @@
     {
       "title": "Gemüseernte in Deutschland erreicht 2025 Rekordwert",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/gemueseernte-rekord-2025-100.html"
-    },
-    {
-      "title": "Kubanische Grenzschützer töten vier Menschen auf US-Schnellboot",
-      "link": "https://www.tagesschau.de/ausland/kuba-usa-schusswechsel-100.html"
     }
   ]
 }
