@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Vergabe öffentlicher Aufträge: Tariftreuegesetz beschlossen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tariftreue-gesetz-bundestag-100.html"
+    },
+    {
       "title": "Ukraine: Mehrere Verletzte bei neuen schweren Angriffen",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-verletzte-102.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Festnahme im Fall von erschossenem ukrainischen Ex-Politiker",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/festnahme-heinsberg-mord-100.html"
-    },
-    {
-      "title": "Angriff auf Zugbegleiter - 100 Reisende müssen ICE verlassen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/angriff-zugbegleiter-ice-100.html"
     }
   ]
 }
