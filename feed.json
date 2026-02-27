@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "NASA ändert Pläne für Artemis-Mondprogramm",
+      "link": "https://www.tagesschau.de/ausland/amerika/nasa-artemis-mondprogramm-100.html"
+    },
+    {
       "title": "Deutschland erhöht die Krisenstufe für Israel",
       "link": "https://www.tagesschau.de/ausland/asien/israel-auswaertiges-amt-erhoeht-krisenstufe-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Aufregung über Werbekampagne von Fast-Food-Kette zu Ramadan",
       "link": "https://www.tagesschau.de/faktenfinder/ramadan-kampagne-mcdonalds-100.html"
-    },
-    {
-      "title": "EU-Kommission kündigt vorläufige Anwendung von Mercosur-Abkommen an",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-mercosur-abkommen-anwendung-100.html"
     }
   ]
 }
