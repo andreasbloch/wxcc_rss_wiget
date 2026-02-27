@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Tarifverhandlungen im ÖPNV: Wer von den Warnstreiks betroffen ist",
+      "link": "https://www.tagesschau.de/wirtschaft/warnstreik-nahverkehr-102.html"
+    },
+    {
       "title": "Epstein-Akten: Hillary Clinton verteidigt sich im Kreuzverhör",
       "link": "https://www.tagesschau.de/ausland/amerika/epstein-files-clinton-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Lufthansa Cityline: Piloten stimmen für Streiks",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-cityline-streik-100.html"
-    },
-    {
-      "title": "Tuttle bleibt vorerst Intendantin des Filmfestivals Berlinale",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/tricia-tuttle-berlinale-100.html"
     }
   ]
 }
