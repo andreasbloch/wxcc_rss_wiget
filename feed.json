@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "USA stellen Botschaftspersonal die Ausreise aus Israel frei",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-us-diplomaten-iran-100.html"
+    },
+    {
+      "title": "Inflationsrate im Februar auf unter zwei Prozent gefallen",
+      "link": "https://www.tagesschau.de/wirtschaft/inflation-verbraucher-104.html"
+    },
+    {
       "title": "Neue Durchsuchungen im Fall von AfD-Politiker Krah",
       "link": "https://www.tagesschau.de/inland/innenpolitik/afd-krah-durchsuchungen-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Pakistan bombardiert militärische Ziele im Nachbarland Afghanistan",
       "link": "https://www.tagesschau.de/ausland/asien/pakistan-afghanistan-konflikt-100.html"
-    },
-    {
-      "title": "Bundestag verabschiedet Reform: Mehr Rechte für leibliche Väter",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-rechte-vaeter-100.html"
-    },
-    {
-      "title": "Podcast 15 Minuten: ÖPNV-Streiks, Drohnen, Apotheken, Ferienwohnungen",
-      "link": "https://www.tagesschau.de/inland/15minuten-podcast-freitag-100.html"
     }
   ]
 }
