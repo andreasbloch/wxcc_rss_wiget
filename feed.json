@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Marktbericht: DAX startet mit leichten Verlusten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-aktien-100.html"
+    },
+    {
+      "title": "Wie hilfreich sind Vagusnerv-Stimulatoren wirklich?",
+      "link": "https://www.tagesschau.de/wissen/forschung/vagusnerv-stimulation-100.html"
+    },
+    {
+      "title": "Zahlen der Bundesbank: 2025 war weniger Falschgeld im Umlauf",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/bundesbank-falschgeld-102.html"
+    },
+    {
       "title": "Gesetzentwurf zu Solaranlagen: SPD nennt Förderstreichung \"inakzeptabel\"",
       "link": "https://www.tagesschau.de/inland/solarfoerderung-kuerzung-reaktionen-100.html"
     },
@@ -19,10 +31,6 @@
     {
       "title": "Pakistan bombardiert militärische Ziele im Nachbarland Afghanistan",
       "link": "https://www.tagesschau.de/ausland/asien/pakistan-afghanistan-konflikt-100.html"
-    },
-    {
-      "title": "Marktbericht: Ernüchterung über den KI-Boom",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-aktien-100.html"
     },
     {
       "title": "Bundestag verabschiedet Reform: Mehr Rechte für leibliche Väter",
@@ -71,14 +79,6 @@
     {
       "title": "Was die Gerichtsentscheidung zur Einstufung der AfD bedeutet",
       "link": "https://www.tagesschau.de/inland/innenpolitik/afd-einstufung-verfassungsschutz-106.html"
-    },
-    {
-      "title": "Aktuelle Stunde zur AfD-Verwandtenaffäre: Eine Partei in der Defensive",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-verwandtenaffaere-aktuelle-stunde-100.html"
-    },
-    {
-      "title": "AfD darf vorerst nicht als \"gesichert rechtsextremistisch\" eingestuft werden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-einstufung-entscheidung-100.html"
     }
   ]
 }
