@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "11KM-Podcast: Atomdeal oder US-Angriff? Worauf die Iraner hoffen",
+      "link": "https://www.tagesschau.de/ausland/asien/podcast-11km-freitag-iran-100.html"
+    },
+    {
+      "title": "Tarifstreit im ÖPNV: Wen betreffen die Warnstreiks heute?",
+      "link": "https://www.tagesschau.de/wirtschaft/warnstreik-nahverkehr-102.html"
+    },
+    {
+      "title": "Wie Deutschland neue EU-Asylregeln umsetzen will",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-geas-asyl-100.html"
+    },
+    {
       "title": "Netflix will kein höheres Angebot für Warner Bros abgeben",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/netflix-warner-paramount-uebernahme-100.html"
     },
@@ -15,10 +27,6 @@
     {
       "title": "Verhandlungen über Irans Atomprogramm sollen fortgesetzt werden",
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-atomgespraeche-102.html"
-    },
-    {
-      "title": "Tarifverhandlungen im ÖPNV: Wer von den Warnstreiks betroffen ist",
-      "link": "https://www.tagesschau.de/wirtschaft/warnstreik-nahverkehr-102.html"
     },
     {
       "title": "Epstein-Akten: Hillary Clinton verteidigt sich im Kreuzverhör",
@@ -71,14 +79,6 @@
     {
       "title": "Nachfolge von Steinmeier: Bundespräsidentenwahl am 30. Januar 2027",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-nachfolge-steinmeier-wahltermin-100.html"
-    },
-    {
-      "title": "Afghanen in Pakistan: \"Das Leben meiner Tochter ist in Gefahr\"",
-      "link": "https://www.tagesschau.de/ausland/asien/afghanistan-bundesregierung-100.html"
-    },
-    {
-      "title": "Schnelle Züge nach Prag: Tschechiens Bahnoffensive wackelt",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hochgeschwindigkeitszug-prag-100.html"
     }
   ]
 }
