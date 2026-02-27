@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Epstein-Akten: Ex-Präsident Clinton ist sich keiner Schuld bewusst",
+      "link": "https://www.tagesschau.de/ausland/amerika/epstein-files-clinton-102.html"
+    },
+    {
+      "title": "Was EU-Gelder für sichere Abtreibungen ändern - und was nicht",
+      "link": "https://www.tagesschau.de/ausland/europa/schwangerschaftsabbrueche-abtreibungen-europa-buergerinitiative-eu-kommission-100.html"
+    },
+    {
       "title": "Bundesinnenministerium: Weiterhin kein Geld für AfD-nahe Stiftung",
       "link": "https://www.tagesschau.de/investigativ/ndr-wdr/afd-stiftung-finanzierung-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Wie Deutschland neue EU-Asylregeln umsetzen will",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-geas-asyl-100.html"
-    },
-    {
-      "title": "Wie hilfreich sind Vagusnerv-Stimulatoren wirklich?",
-      "link": "https://www.tagesschau.de/wissen/forschung/vagusnerv-stimulation-100.html"
-    },
-    {
-      "title": "Zahlen der Bundesbank: 2025 war weniger Falschgeld im Umlauf",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/bundesbank-falschgeld-102.html"
     }
   ]
 }
