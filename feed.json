@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Deutschland erhöht die Krisenstufe für Israel",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-auswaertiges-amt-erhoeht-krisenstufe-100.html"
+    },
+    {
+      "title": "Lage im Iran - Atombehörde fordert Zugang zu nuklearen Anlagen",
+      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-iaea-iran-100.html"
+    },
+    {
       "title": "Epstein-Akten: Ex-Präsident Clinton ist sich keiner Schuld bewusst",
       "link": "https://www.tagesschau.de/ausland/amerika/epstein-files-clinton-102.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "EU-Kommission kündigt vorläufige Anwendung von Mercosur-Abkommen an",
       "link": "https://www.tagesschau.de/ausland/europa/eu-mercosur-abkommen-anwendung-100.html"
-    },
-    {
-      "title": "Bundestag stimmt für Umsetzung der europäischen Asylreform GEAS",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-beschliesst-asylreform-100.html"
-    },
-    {
-      "title": "Wie Deutschland neue EU-Asylregeln umsetzen will",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-geas-asyl-100.html"
     }
   ]
 }
