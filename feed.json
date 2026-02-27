@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Nachwahl in Manchester: Labour verliert Parlamentssitz",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-manchester-nachwahl-ergebnis-100.html"
+    },
+    {
+      "title": "Marktbericht: BASF verschärft Sparkurs und kürzt Investitionen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/basf-aktie-des-tages-100.html"
+    },
+    {
+      "title": "Warum eine Schneeballschlacht in New York zum Politikum wird",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-new-york-mamdani-schneeballschlacht-100.html"
+    },
+    {
       "title": "Equal Pay Day: \"Nicht nur eine Frage des Respekts\"",
       "link": "https://www.tagesschau.de/inland/gesellschaft/equal-pay-day-prien-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Tarifstreit im ÖPNV: Wen betreffen die Warnstreiks heute?",
       "link": "https://www.tagesschau.de/wirtschaft/warnstreik-nahverkehr-102.html"
-    },
-    {
-      "title": "Deutsche Bahn und die Lokführergewerkschaft GDL einigen sich",
-      "link": "https://www.tagesschau.de/wirtschaft/gdl-bahn-einigung-100.html"
-    },
-    {
-      "title": "Verhandlungen über Irans Atomprogramm sollen fortgesetzt werden",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-atomgespraeche-102.html"
-    },
-    {
-      "title": "Epstein-Akten: Hillary Clinton verteidigt sich im Kreuzverhör",
-      "link": "https://www.tagesschau.de/ausland/amerika/epstein-files-clinton-100.html"
     }
   ]
 }
