@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Trump meldet Tod von Irans oberstem Führer Chamenei",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-chamenei-tot-100.html"
+    },
+    {
       "title": "Nahost-Liveblog: ++ Wichtige iranische Militärs laut Israel getötet ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Wirtschaftsministerin Reiche will Gasförderung in Deutschland ausweiten",
       "link": "https://www.tagesschau.de/inland/reiche-gas-102.html"
-    },
-    {
-      "title": "30 Jahre Pokémon: Wie Taschenmonster Taschen füllen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/pokemon-jubilaeum-100.html"
     }
   ]
 }
