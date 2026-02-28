@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Warner stimmt Übernahme durch Paramount zu",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/netflix-warner-paramount-uebernahme-102.html"
+    },
+    {
       "title": "NASA ändert Pläne für Artemis-Mondprogramm",
       "link": "https://www.tagesschau.de/ausland/amerika/nasa-artemis-mondprogramm-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Equal Pay Day: \"Nicht nur eine Frage des Respekts\"",
       "link": "https://www.tagesschau.de/inland/gesellschaft/equal-pay-day-prien-100.html"
-    },
-    {
-      "title": "Aufregung über Werbekampagne von Fast-Food-Kette zu Ramadan",
-      "link": "https://www.tagesschau.de/faktenfinder/ramadan-kampagne-mcdonalds-100.html"
     }
   ]
 }
