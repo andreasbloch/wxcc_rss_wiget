@@ -1,8 +1,12 @@
 {
   "items": [
     {
-      "title": "Trump bestätigt Angriffe gegen Iran",
+      "title": "++ Trump bestätigt \"massiven Einsatz\" ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-204.html"
+    },
+    {
+      "title": "ESC-Vorentscheid 2026: Nur zwei Finalisten singen auf Deutsch",
+      "link": "https://www.tagesschau.de/kultur/deutsche-sprache-beim-esc-vorentscheid-100.html"
     },
     {
       "title": "Wirtschaftsministerin Reiche will Gasförderung in Deutschland ausweiten",
@@ -75,10 +79,6 @@
     {
       "title": "Neue Durchsuchungen im Fall von AfD-Politiker Krah",
       "link": "https://www.tagesschau.de/inland/innenpolitik/afd-krah-durchsuchungen-100.html"
-    },
-    {
-      "title": "Sofortprogramm soll Komfort im Fernverkehr der Deutschen Bahn erhöhen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-sofortprogramm-komfort-100.html"
     }
   ]
 }
