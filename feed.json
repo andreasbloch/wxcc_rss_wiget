@@ -1,8 +1,12 @@
 {
   "items": [
     {
-      "title": "++ Israel meldet iranische Raketenangriffe ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-204.html"
+      "title": "++ Iran greift offenbar US-Stützpunkte an ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html"
+    },
+    {
+      "title": "Was über den Angriff auf Iran bekannt ist",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-usa-iran-angriff-100.html"
     },
     {
       "title": "Warnstreiks im öffentlichen Nahverkehr werden fortgesetzt",
@@ -75,10 +79,6 @@
     {
       "title": "Ver.di legt Nahverkehr lahm - und droht mit weiteren Streiks",
       "link": "https://www.tagesschau.de/inland/gesellschaft/nahverkehr-verdi-warnstreiks-100.html"
-    },
-    {
-      "title": "Inflationsrate im Februar auf unter zwei Prozent gefallen",
-      "link": "https://www.tagesschau.de/wirtschaft/inflation-verbraucher-104.html"
     }
   ]
 }
