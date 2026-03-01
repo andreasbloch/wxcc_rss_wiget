@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Eurovision Song Contest 2026: Sarah Engels vertritt Deutschland",
+      "link": "https://www.tagesschau.de/kultur/engels-esc-100.html"
+    },
+    {
       "title": "Wie Vandalismus den Bahnverkehr stört",
       "link": "https://www.tagesschau.de/inland/gesellschaft/vandalismus-bahn-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Welches Thema den Wahlkampf in Baden-Württemberg dominiert",
       "link": "https://www.tagesschau.de/inland/innenpolitik/baden-wuerttemberg-landtagswahl-wirtschaft-100.html"
-    },
-    {
-      "title": "Angriffe auf Iran: \"Skeptisch, ob das zum Regimesturz führt\"",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-israel-usa-angriffe-100.html"
     }
   ]
 }
